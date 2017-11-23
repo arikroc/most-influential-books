@@ -214,7 +214,7 @@ We sorted the books by "most recommended."
 | Our Mathematical Universe | Max Tegmark | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0307744256/07930-20) | 1 |
 | Out of the Inner Circle | Bill Landreth | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0914845454/07930-20) | 1 |
 | Paypal Wars | Eric M. Jackson | [Amazon](http://www.amazon.com/exec/obidos/ASIN/1936488590/07930-20) | 1 |
-| Platform Revolution | Geoffrey G. Parker,? Marshall W. Van Alstyne,? Sangeet Paul Choudary | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0393354350/07930-20) | 1 |
+| Platform Revolution | Geoffrey G. Parker, Marshall W. Van Alstyne, Sangeet Paul Choudary | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0393354350/07930-20) | 1 |
 | Plutarch's Lives of Illustrious Men | Plutarch | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0265800773/07930-20) | 1 |
 | Poetry of the Universe | Robert Osserman | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0385474296/07930-20) | 1 |
 | Power and Knowledge | Michel Foucault | [Amazon](http://www.amazon.com/exec/obidos/ASIN/039473954X/07930-20) | 1 |
@@ -232,7 +232,7 @@ We sorted the books by "most recommended."
 | Reminiscences of a Stock Operator | Edwin Lefèvre | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0471770884/07930-20) | 1 |
 | Republic | Plato | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0857083139/07930-20) | 1 |
 | Rules of the Game | Neil Strauss | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0061911690/07930-20) | 1 |
-| Search Inside Yourself | Chade-Meng Tan,? Daniel Goleman,? Jon Kabat-Zinn | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0062116932/07930-20) | 1 |
+| Search Inside Yourself | Chade-Meng Tan, Daniel Goleman, Jon Kabat-Zinn | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0062116932/07930-20) | 1 |
 | Seveneves | Neal Stephenson | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0062334514/07930-20) | 1 |
 | Sexual Personae | Camille Paglia | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0300043961/07930-20) | 1 |
 | Shantaram | Gregory David Roberts | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0312330537/07930-20) | 1 |
@@ -249,8 +249,8 @@ We sorted the books by "most recommended."
 | Swann's Way | Proust | [Amazon](http://www.amazon.com/exec/obidos/ASIN/1613827776/07930-20) | 1 |
 | Swimming Across | Andrew S. Grove | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0446528595/07930-20) | 1 |
 | That Which Is Seen & That Which Is Not Seen | M. Frederic Bastiat | [Amazon](http://www.amazon.com/exec/obidos/ASIN/160096706X/07930-20) | 1 |
-| The 10,000 Year Explosion | Gregory Cochran,? Henry Harpending | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0465020429/07930-20) | 1 |
-| The 50th Law | 50 Cent,? Robert Greene | [Amazon](http://www.amazon.com/exec/obidos/ASIN/006177460X/07930-20) | 1 |
+| The 10,000 Year Explosion | Gregory Cochran, Henry Harpending | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0465020429/07930-20) | 1 |
+| The 50th Law | 50 Cent, Robert Greene | [Amazon](http://www.amazon.com/exec/obidos/ASIN/006177460X/07930-20) | 1 |
 | The 7 Habits of Highly Effective People | Stephen R. Covey | [Amazon](http://www.amazon.com/exec/obidos/ASIN/1451639619/07930-20) | 1 |
 | The Act of Creation (Arkana) | Arthur Koestler | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0140191917/07930-20) | 1 |
 | The Aenied | Virgil | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0670038032/07930-20) | 1 |
@@ -366,10 +366,10 @@ We sorted the books by "most recommended."
 | Who Stole Feminism | Christina Hoff Sommers | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0684801566/07930-20) | 1 |
 | Whole Earth Discipline | Stewart Brand | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0670021210/07930-20) | 1 |
 | Why Don't We Learn from History? | B. H. Liddell Hart | [Amazon](http://www.amazon.com/exec/obidos/ASIN/004900025X/07930-20) | 1 |
-| Why Nations Fail | Daron Acemoglu,? James Robinson | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0307719227/07930-20) | 1 |
-| Why Should White Guys Have All the Fun? | Reginald F. Lewis,? Blair S. Walker | [Amazon](http://www.amazon.com/exec/obidos/ASIN/1574780360/07930-20) | 1 |
+| Why Nations Fail | Daron Acemoglu, James Robinson | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0307719227/07930-20) | 1 |
+| Why Should White Guys Have All the Fun? | Reginald F. Lewis, Blair S. Walker | [Amazon](http://www.amazon.com/exec/obidos/ASIN/1574780360/07930-20) | 1 |
 | Word and Object | Willard van Orman Quine | [Amazon](http://www.amazon.com/exec/obidos/ASIN/B01NBOUAHI/07930-20) | 1 |
 | Zen and the Art of Motorcycle Maintenance | Robert M. Pirsig | [Amazon](http://www.amazon.com/exec/obidos/ASIN/0060589469/07930-20) | 1 |
-| Reflections on the Human Condition | Eric Hoffer | [Amazon](http://www.amazon.com/exec/obidos/ASIN/1933435143/07930-20) |  |
+| Reflections on the Human Condition | Eric Hoffer | [Amazon](http://www.amazon.com/exec/obidos/ASIN/1933435143/07930-20) | 1 |
 
 License: CC-BY-SA-4.0
