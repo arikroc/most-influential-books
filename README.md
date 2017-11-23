@@ -14,6 +14,8 @@ We spent many hours processing replies to Patrick's book suggestion request. We 
 
 We sorted the books by "most recommended."
 
+Want to come back to this later? Feel free to use a star to make it easy to find again later. "Starring a repository makes it easy to find again later. You can see all the repositories you have starred by going to your [stars page](https://github.com/stars)." 🌟
+
 ## Compiled, summarized and ranked book recommendations.
 
 | Title | Author | Amazon | Number of recommendations |
