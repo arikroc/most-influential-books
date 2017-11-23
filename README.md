@@ -10,7 +10,7 @@ Patrick Collison, Stripe CEO, on Twitter:
 > 
 > https://twitter.com/patrickc/status/929862403763798016
 
-[![Patrick Collison - "Which five books have influenced you the most?"](patrickc-influential-books.png)](https://twitter.com/patrickc/status/929862403763798016)
+<a href="https://twitter.com/patrickc/status/929862403763798016"><img src="https://github.com/arikroc/most-influential-books/raw/master/patrickc-influential-books.png" alt="Patrick Collison - 'Which five books have influenced you the most?'" width="500"></a>
 
 We spent many hours processing replies to Patrick's book suggestion request. We have processed around 350 unique books (some books have been recommended more than once).
 
