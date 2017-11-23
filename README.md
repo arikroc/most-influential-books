@@ -1,6 +1,8 @@
-# Most Influential Books, sorted by "Most Frequently Recommended"
+# 📚 "Which five books have influenced you the most?"
 
-## Compiled and summarized book recommendations, from replies to a Tweet by Patrick Collison
+**Sorted by "Most Frequently Recommended"**
+
+### From replies to a Tweet by Patrick Collison
 
 Patrick Collison, Stripe CEO, on Twitter:
 
@@ -11,6 +13,8 @@ Patrick Collison, Stripe CEO, on Twitter:
 We spent many hours processing replies to Patrick's book suggestion request. We have processed around 350 unique books (some books have been recommended more than once).
 
 We sorted the books by "most recommended."
+
+## Compiled, summarized and ranked book recommendations.
 
 | Title | Author | Amazon | Number of recommendations |
 |----------------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------|
